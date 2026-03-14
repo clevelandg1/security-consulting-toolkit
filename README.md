@@ -227,14 +227,14 @@ Annual — Renewal Planning
 
 ## Consultant Bio
 
-**[Consultant Name]**
-*[Title] | [Company Name]*
+**Senior Security Advisor | Vulnerability Management | Application Security | Threat Detection**
+*Northstar Cyber Advisory*
 
-[2–3 sentences describing your background, certifications, and focus areas. Example: Senior security consultant with 10+ years of experience in vulnerability management, SIEM deployment, and enterprise risk reduction. Holder of CISSP, CISM, and CEH certifications. Specializing in mid-market to enterprise security program maturity and CIS Controls implementation.]
+Cybersecurity advisor specializing in vulnerability management, application security, and threat detection. Experienced in helping organizations strengthen their security posture through effective vulnerability remediation strategies, improved log visibility, and security platform optimization using solutions such as Rapid7 InsightVM and InsightIDR. Focused on aligning security operations with business risk reduction while improving detection capabilities and security program maturity.
 
-**Contact:** [email@domain.com]
+**Contact:** [your email]
 **LinkedIn:** [linkedin.com/in/yourprofile]
-**Certifications:** [CISSP | CISM | CEH | OSCP | Security+ | other]
+**Certifications:** Microsoft SC-200 | Security+ | CEH (in progress) | CISSP (in progress)
 
 ---
 
